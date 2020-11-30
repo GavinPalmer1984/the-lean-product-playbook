@@ -1,13 +1,24 @@
 The Lean Product Playbook by Dan Olsen
 
 # Introduction
-- Why Products Fail
-- Why This Book?
-- Who Is This Book For?
-- How This Book Is Organized
+- The main reason products fail is because they don't meet customer needs in a way that is better than other alternatives.
+- The Product-Market Fit Pyramid has 5 sections.  The two at the bottom are part of the Market and the three at the top are part of the Product.  From bottom to top: Target Customer, Underserved Needs, Value Proposition, Feature Set, UX.
+- Lean Product Process consists of six steps:
+	- Determine your target customers
+	- Identify underserved customer needs
+	- Define your value proposition
+	- Specify your minimum viable product (MVP) feature set
+	- Create your MVP prototype
+	- Test your MVP with customers
+- The book walks you through detailed explanations of UX design and Agile development.  It also provides in-depth coverage of analytics and how to use metrics to optimize your product.
+- https://leanproductplaybook.com/resources/
 
 # Part I: Core Concepts
 - Chapter 1: Achieving Product-Market Fit with the Lean Product Process
+	- Minimizing rework is a key tactic for eliminating waste which is a key concept in Lean manufacturing.
+	- You will have some rework with the Lean Product Process because it is an iterative process that requires you to revise your hypotheses, designs, and product as you make progress.
+	- The goal of the process is to achieve product-market fit as quickly as possible.
+	- Bruce Lee said, "Adapt what is useful, reject what is useless, and add what is specifically your own."
 - Chapter 2: Problem Space versus Solution Space
 
 # Part II: The Lean Product Process
