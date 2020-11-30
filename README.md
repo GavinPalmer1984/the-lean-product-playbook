@@ -19,7 +19,9 @@ The Lean Product Playbook by Dan Olsen
 	- You will have some rework with the Lean Product Process because it is an iterative process that requires you to revise your hypotheses, designs, and product as you make progress.
 	- The goal of the process is to achieve product-market fit as quickly as possible.
 	- Bruce Lee said, "Adapt what is useful, reject what is useless, and add what is specifically your own."
+
 - Chapter 2: Problem Space versus Solution Space
+	- Outside-in product development is the essense of Lean - and was actually first advocated for years ago by practitioners of user-centered design.
 
 # Part II: The Lean Product Process
 - Chapter 3: Determine Your Target Customer (Step 1)
