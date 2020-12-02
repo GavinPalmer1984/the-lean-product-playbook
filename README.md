@@ -22,6 +22,7 @@ The Lean Product Playbook by Dan Olsen
 
 - Chapter 2: Problem Space versus Solution Space
 	- Outside-in product development is the essense of Lean - and was actually first advocated for years ago by practitioners of user-centered design.
+	- The best problem space learning often comes from feedback you receive from customers on the solution space artifacts you have created.
 
 # Part II: The Lean Product Process
 - Chapter 3: Determine Your Target Customer (Step 1)
