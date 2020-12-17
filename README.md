@@ -35,6 +35,12 @@ The Lean Product Playbook by Dan Olsen
 	- We need personas for user-centered design: which is a precise definition of our user and what he wants to accomplish.  Remember that personas are no substitute for talking to customers on an ongoing basis.
 
 - Chapter 4: Identify Underserved Customer Needs (Step 2)
+	- The author doesn't distinguish between needs, desires, goals, pain points, stories, and wants because he will provide a framework for prioritizing needs.
+	- Customer needs are like onions with multiple layers.
+	- Each need is expressed from the customer's perspective with a verb, benefit (increase or decrease), and something of value which can be measured.
+	- The best way to test a hypothetical customer need is in a one-on-one in-person customer discovery interview.
+	- (want to take notes on how to do a discovery interview)
+
 - Chapter 5: Define Your Value Proposition (Step 3)
 - Chapter 6: Specify Your Minimum Viable Product (MVP) Feature Set (Step 4)
 - Chapter 7: Create Your MVP Prototype (Step 5)
