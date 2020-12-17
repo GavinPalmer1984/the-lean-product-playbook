@@ -23,9 +23,17 @@ The Lean Product Playbook by Dan Olsen
 - Chapter 2: Problem Space versus Solution Space
 	- Outside-in product development is the essense of Lean - and was actually first advocated for years ago by practitioners of user-centered design.
 	- The best problem space learning often comes from feedback you receive from customers on the solution space artifacts you have created.
+	- The reality is that customers are much better at giving you feedback in the solution space. Having solution space discussions with customers is much more fruitful than trying to explicitly discuss the problem space with them.
 
 # Part II: The Lean Product Process
 - Chapter 3: Determine Your Target Customer (Step 1)
+	- Different customers will have different needs - and even those who have the same needs can have distinct views on their relative importance.
+	- Once you have a product or a prototype to show customers, then you can gain clarity about the target market you're attracting.
+	- Dividing a broad market into specific subsets based on attributes is called market segmentation.
+	- Needs-based segmentation seems very important but may be used to do other kinds of segmentation for ad campaigns.
+	- Define your target buyer in addition to the target customer when warranted.
+	- We need personas for user-centered design: which is a precise definition of our user and what he wants to accomplish.  Remember that personas are no substitute for talking to customers on an ongoing basis.
+
 - Chapter 4: Identify Underserved Customer Needs (Step 2)
 - Chapter 5: Define Your Value Proposition (Step 3)
 - Chapter 6: Specify Your Minimum Viable Product (MVP) Feature Set (Step 4)
