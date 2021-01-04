@@ -51,6 +51,13 @@ The Lean Product Playbook by Dan Olsen
 
 # Part III: Building and Optimizing Your Product
 - Chapter 12: Build Your Product Using Agile Development
+	- "Agile Development" is a broad term used to describe iterative and incremental development strategies.  It is different than Big Design Up Front (BDUF like the waterfall strategy)
+	- "There are known knowns.  There are things we know we know.  We also know there are known unknowns.  That is to say, we know there are some things we do not know.  But there are also unknown unknowns.  The ones we don't know we don't know." - Donald Rumsfield
+		- A spike task can help reveal the unknowns.
+	- It's important to note that waterfall is better than agile for some projects.  We wouldn't want to send humans into space with a minimally viable space ship.
+		- Use lower cost and lower risk stages to break a project up into smaller parts.
+	- Extreme Programming and Lean Software Development are two varieties of Agile Development.
+	- Scrum and Kanban are two of the most common agile methodologies.
 - Chapter 13: Measure Your Key Metrics
 - Chapter 14: Use Analystics to Optimize Your Product and Business
 - Chapter 15: Conclusion
